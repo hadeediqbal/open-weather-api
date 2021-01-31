@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,900;1,300;1,500&display=swap');
+
+body {
+    background-image: url("../img/my.jpg");
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 0;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    color: blanchedalmond;
+}
+
+.container {
+    max-width: 500px;
+    min-width: 500px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.form-rounded {
+    border-radius: 2em;
+}
+
+.back-card {
+    border-radius: 50px !important;
+}
+
+.city-name {
+    position: absolute;
+    width: 100%;
+}
+
+.city-name p {
+    font-size: 16pt;
+    font-weight: 400;
+}
+
+.city-name span {
+    font-weight: 400;
+    font-size: 37pt;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: -60px;
+}
+
+.temp span {
+    font-weight: 100;
+    font-size: 5em;
+    letter-spacing: -5px;
+    white-space: nowrap;
+}
+
+.card-mid {
+    line-height: 0.5;
+}
