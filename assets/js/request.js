@@ -1,6 +1,6 @@
 const key = '59339b647c86089dce00b2e923de529e';
 
-// const baseURL = 'http://api.openweathermap.org/data/2.5/weather?q=Nashville&appid=59339b647c86089dce00b2e923de529e'
+// const baseURL = 'https://api.openweathermap.org/data/2.5/weather?q=Nashville&appid=59339b647c86089dce00b2e923de529e'
 
 // fetch(baseURL)
 //     .then((data) => { console.log('response', data.json()) })
