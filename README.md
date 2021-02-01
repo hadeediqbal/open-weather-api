@@ -6,6 +6,7 @@ the city will be linked to the OpenWeather Api
 the information pulled will be the live tempreture in fahrenheit, high, low, humidity, feels like, and live animation of day or night
 
 <img src="img/h1.png">
+<img src="img/h2.png">
 
 Source for reference used:
 https://youtu.be/QDdn3yrsyCQ
